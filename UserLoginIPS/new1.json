@@ -1,0 +1,2927 @@
+[
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "26",
+DeviceID: "",
+UserX: "242.016815",
+UserY: "264.148712",
+DeviceType: "iPhone",
+UpdatedAt: "1480050773"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "26",
+DeviceID: "",
+UserX: "570.963928",
+UserY: "-338.322754",
+DeviceType: "iPhone",
+UpdatedAt: "1480050803"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "25",
+DeviceID: "",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480050833"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "25",
+DeviceID: "",
+UserX: "322.626190",
+UserY: "107.563995",
+DeviceType: "iPhone",
+UpdatedAt: "1480050863"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "497.456451",
+UserY: "-224.136719",
+DeviceType: "iPhone",
+UpdatedAt: "1480050893"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "25",
+DeviceID: "",
+UserX: "633.440552",
+UserY: "284.624817",
+DeviceType: "iPhone",
+UpdatedAt: "1480050923"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "26",
+DeviceID: "",
+UserX: "633.432556",
+UserY: "284.666534",
+DeviceType: "iPhone",
+UpdatedAt: "1480050953"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "25",
+DeviceID: "",
+UserX: "491.486511",
+UserY: "305.032715",
+DeviceType: "iPhone",
+UpdatedAt: "1480050983"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "25",
+DeviceID: "",
+UserX: "761.709717",
+UserY: "-894.573792",
+DeviceType: "iPhone",
+UpdatedAt: "1480051013"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "25",
+DeviceID: "",
+UserX: "493.576965",
+UserY: "-110.192657",
+DeviceType: "iPhone",
+UpdatedAt: "1480051043"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "25",
+DeviceID: "",
+UserX: "365.784363",
+UserY: "729.268982",
+DeviceType: "iPhone",
+UpdatedAt: "1480051073"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "25",
+DeviceID: "",
+UserX: "516.196838",
+UserY: "252.482605",
+DeviceType: "iPhone",
+UpdatedAt: "1480051103"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "25",
+DeviceID: "",
+UserX: "514.770020",
+UserY: "251.640869",
+DeviceType: "iPhone",
+UpdatedAt: "1480051133"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "25",
+DeviceID: "",
+UserX: "474.357971",
+UserY: "957.904114",
+DeviceType: "iPhone",
+UpdatedAt: "1480051163"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "25",
+DeviceID: "",
+UserX: "447.579620",
+UserY: "12.473297",
+DeviceType: "iPhone",
+UpdatedAt: "1480051193"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "25",
+DeviceID: "",
+UserX: "446.531982",
+UserY: "-194.761673",
+DeviceType: "iPhone",
+UpdatedAt: "1480051223"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "5aeb765755f4ad14709dba58e1741829589be4764238307489fa83bee3cbf7f9",
+UserX: "156.775065",
+UserY: "-440.397296",
+DeviceType: "iPhone",
+UpdatedAt: "1480054834"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "5aeb765755f4ad14709dba58e1741829589be4764238307489fa83bee3cbf7f9",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480054867"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "5aeb765755f4ad14709dba58e1741829589be4764238307489fa83bee3cbf7f9",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480055017"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "5aeb765755f4ad14709dba58e1741829589be4764238307489fa83bee3cbf7f9",
+UserX: "179.999966",
+UserY: "-584.470338",
+DeviceType: "iPhone",
+UpdatedAt: "1480055047"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "5aeb765755f4ad14709dba58e1741829589be4764238307489fa83bee3cbf7f9",
+UserX: "180.000132",
+UserY: "-584.271404",
+DeviceType: "iPhone",
+UpdatedAt: "1480055077"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "5aeb765755f4ad14709dba58e1741829589be4764238307489fa83bee3cbf7f9",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480055110"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "5aeb765755f4ad14709dba58e1741829589be4764238307489fa83bee3cbf7f9",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480055159"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "5aeb765755f4ad14709dba58e1741829589be4764238307489fa83bee3cbf7f9",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480055234"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "5aeb765755f4ad14709dba58e1741829589be4764238307489fa83bee3cbf7f9",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480055264"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "5aeb765755f4ad14709dba58e1741829589be4764238307489fa83bee3cbf7f9",
+UserX: "-0.449622",
+UserY: "4.298734",
+DeviceType: "iPhone",
+UpdatedAt: "1480055374"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "5aeb765755f4ad14709dba58e1741829589be4764238307489fa83bee3cbf7f9",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480055426"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "5aeb765755f4ad14709dba58e1741829589be4764238307489fa83bee3cbf7f9",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480055465"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "5aeb765755f4ad14709dba58e1741829589be4764238307489fa83bee3cbf7f9",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480055507"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "5aeb765755f4ad14709dba58e1741829589be4764238307489fa83bee3cbf7f9",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480055537"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "5aeb765755f4ad14709dba58e1741829589be4764238307489fa83bee3cbf7f9",
+UserX: "47.180000",
+UserY: "323.260000",
+DeviceType: "iPhone",
+UpdatedAt: "1480055539"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "5aeb765755f4ad14709dba58e1741829589be4764238307489fa83bee3cbf7f9",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480055569"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "5aeb765755f4ad14709dba58e1741829589be4764238307489fa83bee3cbf7f9",
+UserX: "47.180000",
+UserY: "323.260000",
+DeviceType: "iPhone",
+UpdatedAt: "1480055569"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "5aeb765755f4ad14709dba58e1741829589be4764238307489fa83bee3cbf7f9",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480055638"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "5aeb765755f4ad14709dba58e1741829589be4764238307489fa83bee3cbf7f9",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480055683"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "5aeb765755f4ad14709dba58e1741829589be4764238307489fa83bee3cbf7f9",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480055713"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "5aeb765755f4ad14709dba58e1741829589be4764238307489fa83bee3cbf7f9",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480055761"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "5aeb765755f4ad14709dba58e1741829589be4764238307489fa83bee3cbf7f9",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480055792"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "b78169471e5f7140f6d98f69c4c201b76b4698082ef6a39c3d910e88412a81d1",
+UserX: "51.894969",
+UserY: "404.146807",
+DeviceType: "iPhone",
+UpdatedAt: "1480056057"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "b78169471e5f7140f6d98f69c4c201b76b4698082ef6a39c3d910e88412a81d1",
+UserX: "51.894942",
+UserY: "404.145562",
+DeviceType: "iPhone",
+UpdatedAt: "1480056087"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "b78169471e5f7140f6d98f69c4c201b76b4698082ef6a39c3d910e88412a81d1",
+UserX: "51.894881",
+UserY: "404.145279",
+DeviceType: "iPhone",
+UpdatedAt: "1480056123"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "b78169471e5f7140f6d98f69c4c201b76b4698082ef6a39c3d910e88412a81d1",
+UserX: "51.894961",
+UserY: "404.146456",
+DeviceType: "iPhone",
+UpdatedAt: "1480056156"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "b78169471e5f7140f6d98f69c4c201b76b4698082ef6a39c3d910e88412a81d1",
+UserX: "51.894962",
+UserY: "404.107517",
+DeviceType: "iPhone",
+UpdatedAt: "1480056209"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "b78169471e5f7140f6d98f69c4c201b76b4698082ef6a39c3d910e88412a81d1",
+UserX: "51.894903",
+UserY: "404.115840",
+DeviceType: "iPhone",
+UpdatedAt: "1480056263"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "b78169471e5f7140f6d98f69c4c201b76b4698082ef6a39c3d910e88412a81d1",
+UserX: "51.894955",
+UserY: "404.144470",
+DeviceType: "iPhone",
+UpdatedAt: "1480056375"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "b78169471e5f7140f6d98f69c4c201b76b4698082ef6a39c3d910e88412a81d1",
+UserX: "47.180000",
+UserY: "323.260000",
+DeviceType: "iPhone",
+UpdatedAt: "1480056375"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "b78169471e5f7140f6d98f69c4c201b76b4698082ef6a39c3d910e88412a81d1",
+UserX: "47.180000",
+UserY: "323.260000",
+DeviceType: "iPhone",
+UpdatedAt: "1480056376"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "b78169471e5f7140f6d98f69c4c201b76b4698082ef6a39c3d910e88412a81d1",
+UserX: "47.180000",
+UserY: "323.260000",
+DeviceType: "iPhone",
+UpdatedAt: "1480056376"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "b78169471e5f7140f6d98f69c4c201b76b4698082ef6a39c3d910e88412a81d1",
+UserX: "47.180000",
+UserY: "323.260000",
+DeviceType: "iPhone",
+UpdatedAt: "1480056385"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "b78169471e5f7140f6d98f69c4c201b76b4698082ef6a39c3d910e88412a81d1",
+UserX: "51.894964",
+UserY: "404.146443",
+DeviceType: "iPhone",
+UpdatedAt: "1480056560"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "b78169471e5f7140f6d98f69c4c201b76b4698082ef6a39c3d910e88412a81d1",
+UserX: "51.894969",
+UserY: "404.146093",
+DeviceType: "iPhone",
+UpdatedAt: "1480056592"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "b78169471e5f7140f6d98f69c4c201b76b4698082ef6a39c3d910e88412a81d1",
+UserX: "51.895700",
+UserY: "404.165206",
+DeviceType: "iPhone",
+UpdatedAt: "1480056696"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "b78169471e5f7140f6d98f69c4c201b76b4698082ef6a39c3d910e88412a81d1",
+UserX: "47.180000",
+UserY: "323.260000",
+DeviceType: "iPhone",
+UpdatedAt: "1480056731"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "b78169471e5f7140f6d98f69c4c201b76b4698082ef6a39c3d910e88412a81d1",
+UserX: "51.895535",
+UserY: "404.159620",
+DeviceType: "iPhone",
+UpdatedAt: "1480056727"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "b78169471e5f7140f6d98f69c4c201b76b4698082ef6a39c3d910e88412a81d1",
+UserX: "51.895414",
+UserY: "404.157262",
+DeviceType: "iPhone",
+UpdatedAt: "1480056868"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "b78169471e5f7140f6d98f69c4c201b76b4698082ef6a39c3d910e88412a81d1",
+UserX: "51.895202",
+UserY: "404.152189",
+DeviceType: "iPhone",
+UpdatedAt: "1480056898"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "b78169471e5f7140f6d98f69c4c201b76b4698082ef6a39c3d910e88412a81d1",
+UserX: "51.895178",
+UserY: "404.151935",
+DeviceType: "iPhone",
+UpdatedAt: "1480056928"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "b78169471e5f7140f6d98f69c4c201b76b4698082ef6a39c3d910e88412a81d1",
+UserX: "51.894992",
+UserY: "404.148108",
+DeviceType: "iPhone",
+UpdatedAt: "1480056971"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "b78169471e5f7140f6d98f69c4c201b76b4698082ef6a39c3d910e88412a81d1",
+UserX: "51.894947",
+UserY: "404.147561",
+DeviceType: "iPhone",
+UpdatedAt: "1480057010"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "b78169471e5f7140f6d98f69c4c201b76b4698082ef6a39c3d910e88412a81d1",
+UserX: "51.895002",
+UserY: "404.148519",
+DeviceType: "iPhone",
+UpdatedAt: "1480057040"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "6b4aff3979f6b0676032c017daa23a92da3333d2273709c46f205b89c03bd2f8",
+UserX: "51.893484",
+UserY: "404.129190",
+DeviceType: "iPhone",
+UpdatedAt: "1480057528"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "6b4aff3979f6b0676032c017daa23a92da3333d2273709c46f205b89c03bd2f8",
+UserX: "51.894808",
+UserY: "404.145259",
+DeviceType: "iPhone",
+UpdatedAt: "1480057558"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "6b4aff3979f6b0676032c017daa23a92da3333d2273709c46f205b89c03bd2f8",
+UserX: "51.894801",
+UserY: "404.145739",
+DeviceType: "iPhone",
+UpdatedAt: "1480057589"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "6b4aff3979f6b0676032c017daa23a92da3333d2273709c46f205b89c03bd2f8",
+UserX: "47.180000",
+UserY: "323.260000",
+DeviceType: "iPhone",
+UpdatedAt: "1480057589"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "6b4aff3979f6b0676032c017daa23a92da3333d2273709c46f205b89c03bd2f8",
+UserX: "47.180000",
+UserY: "323.260000",
+DeviceType: "iPhone",
+UpdatedAt: "1480057611"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "6b4aff3979f6b0676032c017daa23a92da3333d2273709c46f205b89c03bd2f8",
+UserX: "51.894841",
+UserY: "404.146350",
+DeviceType: "iPhone",
+UpdatedAt: "1480057619"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "6b4aff3979f6b0676032c017daa23a92da3333d2273709c46f205b89c03bd2f8",
+UserX: "51.894787",
+UserY: "404.146250",
+DeviceType: "iPhone",
+UpdatedAt: "1480057747"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "6b4aff3979f6b0676032c017daa23a92da3333d2273709c46f205b89c03bd2f8",
+UserX: "51.894693",
+UserY: "404.143595",
+DeviceType: "iPhone",
+UpdatedAt: "1480057779"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "6b4aff3979f6b0676032c017daa23a92da3333d2273709c46f205b89c03bd2f8",
+UserX: "51.894828",
+UserY: "404.145776",
+DeviceType: "iPhone",
+UpdatedAt: "1480057970"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "6b4aff3979f6b0676032c017daa23a92da3333d2273709c46f205b89c03bd2f8",
+UserX: "51.894847",
+UserY: "404.145040",
+DeviceType: "iPhone",
+UpdatedAt: "1480059011"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "6b4aff3979f6b0676032c017daa23a92da3333d2273709c46f205b89c03bd2f8",
+UserX: "51.894838",
+UserY: "404.140463",
+DeviceType: "iPhone",
+UpdatedAt: "1480059042"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "566.3082423833272",
+UserY: "325.36153184223144",
+DeviceType: "android",
+UpdatedAt: "1480088255.981"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "496.67701302378396",
+UserY: "355.69172945764285",
+DeviceType: "android",
+UpdatedAt: "1480088287.002"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "464.99030777412736",
+UserY: "318.06823147492423",
+DeviceType: "android",
+UpdatedAt: "1480088318.273"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "404.33425102574137",
+UserY: "336.0592414439744",
+DeviceType: "android",
+UpdatedAt: "1480088351.039"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "322.62227589922907",
+UserY: "288.5821004024974",
+DeviceType: "android",
+UpdatedAt: "1480088382.188"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "219.31618196206637",
+UserY: "295.1240373537715",
+DeviceType: "android",
+UpdatedAt: "1480088412.635"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "179.2603616543849",
+UserY: "307.23429789006184",
+DeviceType: "android",
+UpdatedAt: "1480088443.724"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "179.69051895726753",
+UserY: "316.08308990823014",
+DeviceType: "android",
+UpdatedAt: "1480088475.042"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "333.69641663130585",
+UserY: "275.54479715552714",
+DeviceType: "android",
+UpdatedAt: "1480088664.812"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "179.8810364558741",
+UserY: "307.6876743629521",
+DeviceType: "android",
+UpdatedAt: "1480088700.173"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "179.8810364558741",
+UserY: "307.6876743629521",
+DeviceType: "android",
+UpdatedAt: "1480088700.173"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "124.4702180301806",
+UserY: "320.1833148643591",
+DeviceType: "android",
+UpdatedAt: "1480088732.146"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "82.55571662729362",
+UserY: "319.878961133532",
+DeviceType: "android",
+UpdatedAt: "1480088763.561"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "326.9469495427529",
+UserY: "296.6933148639037",
+DeviceType: "android",
+UpdatedAt: "1480088797.467"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "414.60290850031544",
+UserY: "372.270384466579",
+DeviceType: "android",
+UpdatedAt: "1480088828.047"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "414.60290850031544",
+UserY: "372.270384466579",
+DeviceType: "android",
+UpdatedAt: "1480088828.047"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "441.0134904804032",
+UserY: "314.98496525048665",
+DeviceType: "android",
+UpdatedAt: "1480088859.077"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "604.6796389085027",
+UserY: "255.8745320878667",
+DeviceType: "android",
+UpdatedAt: "1480088951.532"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "604.6796389087996",
+UserY: "281.5254923393079",
+DeviceType: "android",
+UpdatedAt: "1480088921.265"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "408.4277925641801",
+UserY: "348.77281406868906",
+DeviceType: "android",
+UpdatedAt: "1480088982.661"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "466.2834780220763",
+UserY: "326.91482420109156",
+DeviceType: "android",
+UpdatedAt: "1480089013.965"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "402.89205980727746",
+UserY: "334.1938661531699",
+DeviceType: "android",
+UpdatedAt: "1480089044.586"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "314.795887069049",
+UserY: "291.9414283352813",
+DeviceType: "android",
+UpdatedAt: "1480089075.016"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "421.1842350475894",
+UserY: "325.1598258785379",
+DeviceType: "android",
+UpdatedAt: "1480089105.646"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "421.1842350475894",
+UserY: "325.1598258785379",
+DeviceType: "android",
+UpdatedAt: "1480089136.278"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "26",
+DeviceID: "",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480089161"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "421.18414753344234",
+UserY: "325.1598217439249",
+DeviceType: "android",
+UpdatedAt: "1480089167.09"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "421.18414753344234",
+UserY: "325.1598217439249",
+DeviceType: "android",
+UpdatedAt: "1480089197.521"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "421.18414753344234",
+UserY: "325.1598217439249",
+DeviceType: "android",
+UpdatedAt: "1480089227.986"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "26",
+DeviceID: "",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480089228"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "421.18414753344234",
+UserY: "325.1598217439249",
+DeviceType: "android",
+UpdatedAt: "1480089258.384"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "278.1359352976524",
+UserY: "274.91000250491754",
+DeviceType: "android",
+UpdatedAt: "1480089288.881"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "25",
+DeviceID: "",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480089318"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "342.001648",
+UserY: "-74.108643",
+DeviceType: "iPhone",
+UpdatedAt: "1480089348"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "179.436035",
+UserY: "381.236572",
+DeviceType: "iPhone",
+UpdatedAt: "1480089378"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "389.95947679492997",
+UserY: "312.3860183231815",
+DeviceType: "android",
+UpdatedAt: "1480089396.273"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "59.770752",
+UserY: "602.111267",
+DeviceType: "iPhone",
+UpdatedAt: "1480089408"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "250.62687497611313",
+UserY: "297.03372578149254",
+DeviceType: "android",
+UpdatedAt: "1480089426.657"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "25",
+DeviceID: "",
+UserX: "360.731873",
+UserY: "314.261688",
+DeviceType: "iPhone",
+UpdatedAt: "1480089438"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "25",
+DeviceID: "",
+UserX: "127.208679",
+UserY: "318.325836",
+DeviceType: "iPhone",
+UpdatedAt: "1480089468"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "177.1488419322252",
+UserY: "304.9332678534843",
+DeviceType: "android",
+UpdatedAt: "1480089457.286"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "93.77826939270722",
+UserY: "322.8535673971316",
+DeviceType: "android",
+UpdatedAt: "1480089487.841"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "25",
+DeviceID: "",
+UserX: "39.858608",
+UserY: "323.099640",
+DeviceType: "iPhone",
+UpdatedAt: "1480089558"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "27.738822922919294",
+UserY: "318.31613988404206",
+DeviceType: "android",
+UpdatedAt: "1480089555.048"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "75.62703032923403",
+UserY: "324.1028444038922",
+DeviceType: "android",
+UpdatedAt: "1480089585.614"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "25",
+DeviceID: "",
+UserX: "125.009384",
+UserY: "316.100830",
+DeviceType: "iPhone",
+UpdatedAt: "1480089588"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "103.95932289844428",
+UserY: "331.6491586422224",
+DeviceType: "android",
+UpdatedAt: "1480089616.565"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "25",
+DeviceID: "",
+UserX: "129.197968",
+UserY: "324.445404",
+DeviceType: "iPhone",
+UpdatedAt: "1480089618"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "174.94405003407496",
+UserY: "310.15741918138724",
+DeviceType: "android",
+UpdatedAt: "1480089647.327"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "277.354370",
+UserY: "311.630615",
+DeviceType: "iPhone",
+UpdatedAt: "1480089648"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480089678"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "255.75533367015836",
+UserY: "290.6717961510847",
+DeviceType: "android",
+UpdatedAt: "1480089678.584"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "402.91242419664206",
+UserY: "337.5488127045648",
+DeviceType: "android",
+UpdatedAt: "1480089709.462"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "2.691101",
+UserY: "-5.381958",
+DeviceType: "iPhone",
+UpdatedAt: "1480089711"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "502.35912516545227",
+UserY: "347.7107581910953",
+DeviceType: "android",
+UpdatedAt: "1480089740.02"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480089741"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "179.541931",
+UserY: "381.041718",
+DeviceType: "iPhone",
+UpdatedAt: "1480089768"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "598.1377758833064",
+UserY: "256.736603706084",
+DeviceType: "android",
+UpdatedAt: "1480089771.465"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480089798"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "596.4387132450739",
+UserY: "276.90440984310993",
+DeviceType: "android",
+UpdatedAt: "1480089804.667"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "397.871216",
+UserY: "447.208862",
+DeviceType: "iPhone",
+UpdatedAt: "1480089828"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "179.545502",
+UserY: "381.035645",
+DeviceType: "iPhone",
+UpdatedAt: "1480089858"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480089888"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480089918"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "477.7621526323718",
+UserY: "323.1366923407857",
+DeviceType: "android",
+UpdatedAt: "1480089875.571"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "319.054117839755",
+UserY: "259.43112001022104",
+DeviceType: "android",
+UpdatedAt: "1480089920.839"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "385.0071907183524",
+UserY: "280.04336338582505",
+DeviceType: "android",
+UpdatedAt: "1480089951.682"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "-127.095886",
+UserY: "931.111572",
+DeviceType: "iPhone",
+UpdatedAt: "1480089952"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "332.0354405230864",
+UserY: "293.67787876224867",
+DeviceType: "android",
+UpdatedAt: "1480089982.146"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "335.58535360524445",
+UserY: "293.5295278679625",
+DeviceType: "android",
+UpdatedAt: "1480090012.558"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "325.63748199543",
+UserY: "296.391322327796",
+DeviceType: "android",
+UpdatedAt: "1480090042.965"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "254.14469787407316",
+UserY: "305.2513674680773",
+DeviceType: "android",
+UpdatedAt: "1480090073.336"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "264.18778462195905",
+UserY: "293.406094181476",
+DeviceType: "android",
+UpdatedAt: "1480090103.756"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "261.8125467729226",
+UserY: "293.87839311097906",
+DeviceType: "android",
+UpdatedAt: "1480090134.969"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "275.5722384476832",
+UserY: "275.0745923658319",
+DeviceType: "android",
+UpdatedAt: "1480090165.576"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "415.8824066911998",
+UserY: "293.390034420666",
+DeviceType: "android",
+UpdatedAt: "1480090196.039"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "404.48476044210963",
+UserY: "339.782436848447",
+DeviceType: "android",
+UpdatedAt: "1480090226.894"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "565.538850900847",
+UserY: "316.71210780051445",
+DeviceType: "android",
+UpdatedAt: "1480090257.516"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "661.2708964278795",
+UserY: "286.5696202420419",
+DeviceType: "android",
+UpdatedAt: "1480090293.11"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "634.8029663979579",
+UserY: "306.26646353065087",
+DeviceType: "android",
+UpdatedAt: "1480090323.705"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "567.1517932119715",
+UserY: "312.6412956612132",
+DeviceType: "android",
+UpdatedAt: "1480090364.434"
+},
+{
+UserID: "",
+FloorplanID: "26",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "376.4366605559652",
+UserY: "341.65007619738907",
+DeviceType: "android",
+UpdatedAt: "1480090456.543"
+},
+{
+UserID: "",
+FloorplanID: "26",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "448.0666758675402",
+UserY: "285.62900717382604",
+DeviceType: "android",
+UpdatedAt: "1480090505.319"
+},
+{
+UserID: "",
+FloorplanID: "26",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "423.0166315696307",
+UserY: "201.45334902665084",
+DeviceType: "android",
+UpdatedAt: "1480090539.5"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "-173.016418",
+UserY: "1029.463501",
+DeviceType: "iPhone",
+UpdatedAt: "1480090637"
+},
+{
+UserID: "",
+FloorplanID: "26",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "491.5659254610618",
+UserY: "316.6945810581864",
+DeviceType: "android",
+UpdatedAt: "1480090609.728"
+},
+{
+UserID: "",
+FloorplanID: "26",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "454.4517099754579",
+UserY: "322.4297016832375",
+DeviceType: "android",
+UpdatedAt: "1480090657.174"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480090688"
+},
+{
+UserID: "",
+FloorplanID: "26",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "496.7604258065227",
+UserY: "336.10473608172185",
+DeviceType: "android",
+UpdatedAt: "1480090695.265"
+},
+{
+UserID: "",
+FloorplanID: "26",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "605.9581925551948",
+UserY: "320.1592603394223",
+DeviceType: "android",
+UpdatedAt: "1480090725.808"
+},
+{
+UserID: "",
+FloorplanID: "26",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "606.1543805014595",
+UserY: "330.51479309921854",
+DeviceType: "android",
+UpdatedAt: "1480090756.28"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "0.000458",
+UserY: "117.930046",
+DeviceType: "iPhone",
+UpdatedAt: "1480090854"
+},
+{
+UserID: "",
+FloorplanID: "26",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "476.0069502550679",
+UserY: "303.64999513769845",
+DeviceType: "android",
+UpdatedAt: "1480090821.955"
+},
+{
+UserID: "",
+FloorplanID: "26",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "519.2323313154469",
+UserY: "328.1101432490572",
+DeviceType: "android",
+UpdatedAt: "1480090852.14"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "-59.759583",
+UserY: "786.890747",
+DeviceType: "iPhone",
+UpdatedAt: "1480090884"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480090914"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480090944"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480090974"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "88.616394",
+UserY: "544.150635",
+DeviceType: "iPhone",
+UpdatedAt: "1480091016"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "616.884277",
+UserY: "-320.081848",
+DeviceType: "iPhone",
+UpdatedAt: "1480091046"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480091101"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480091131"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480091161"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "195.311661",
+UserY: "353.293152",
+DeviceType: "iPhone",
+UpdatedAt: "1480091261"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "195.308777",
+UserY: "353.299500",
+DeviceType: "iPhone",
+UpdatedAt: "1480091291"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "-5.349792",
+UserY: "10.700104",
+DeviceType: "iPhone",
+UpdatedAt: "1480091321"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "25",
+DeviceID: "",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480091773"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "25",
+DeviceID: "",
+UserX: "501.902893",
+UserY: "-416.064758",
+DeviceType: "iPhone",
+UpdatedAt: "1480091803"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "25",
+DeviceID: "",
+UserX: "2.691162",
+UserY: "-5.381927",
+DeviceType: "iPhone",
+UpdatedAt: "1480091836"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "25",
+DeviceID: "",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480091878"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "25",
+DeviceID: "",
+UserX: "306.916748",
+UserY: "357.430878",
+DeviceType: "iPhone",
+UpdatedAt: "1480091915"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "25",
+DeviceID: "",
+UserX: "447.684143",
+UserY: "-5874.346680",
+DeviceType: "iPhone",
+UpdatedAt: "1480091967"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "25",
+DeviceID: "",
+UserX: "445.688690",
+UserY: "347.666656",
+DeviceType: "iPhone",
+UpdatedAt: "1480092009"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "25",
+DeviceID: "",
+UserX: "299.598358",
+UserY: "455.578217",
+DeviceType: "iPhone",
+UpdatedAt: "1480092047"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "25",
+DeviceID: "",
+UserX: "277.520721",
+UserY: "365.806671",
+DeviceType: "iPhone",
+UpdatedAt: "1480092078"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "91.00333784539589",
+UserY: "322.35768833967734",
+DeviceType: "android",
+UpdatedAt: "1480092488.731"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "93.89917326149804",
+UserY: "327.2483801528337",
+DeviceType: "android",
+UpdatedAt: "1480092526.661"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "25",
+DeviceID: "",
+UserX: "389.494385",
+UserY: "-760.338806",
+DeviceType: "iPhone",
+UpdatedAt: "1480092553"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "64.4609998578037",
+UserY: "321.3242362176973",
+DeviceType: "android",
+UpdatedAt: "1480092458.589"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "91.16164349253656",
+UserY: "324.9825602590588",
+DeviceType: "android",
+UpdatedAt: "1480092559.868"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "83.36450798831987",
+UserY: "320.8469481372122",
+DeviceType: "android",
+UpdatedAt: "1480092596.577"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "25",
+DeviceID: "",
+UserX: "387.432434",
+UserY: "-629.053345",
+DeviceType: "iPhone",
+UpdatedAt: "1480092611"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "132.3397201812057",
+UserY: "320.2689850013445",
+DeviceType: "android",
+UpdatedAt: "1480092628.395"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "140.39477547374423",
+UserY: "326.4894295620789",
+DeviceType: "android",
+UpdatedAt: "1480092661.187"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "167.11053708025634",
+UserY: "310.5514061551834",
+DeviceType: "android",
+UpdatedAt: "1480092691.329"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "375.27210389297903",
+UserY: "275.558252336014",
+DeviceType: "android",
+UpdatedAt: "1480092725.207"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "25",
+DeviceID: "",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480092920"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "375.71472010937737",
+UserY: "275.2865767663789",
+DeviceType: "android",
+UpdatedAt: "1480092952.264"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "25",
+DeviceID: "",
+UserX: "326.212311",
+UserY: "319.704773",
+DeviceType: "iPhone",
+UpdatedAt: "1480092954"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "375.71472010937737",
+UserY: "275.2865767663789",
+DeviceType: "android",
+UpdatedAt: "1480092983.132"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "375.71472010937737",
+UserY: "275.2865767663789",
+DeviceType: "android",
+UpdatedAt: "1480093014.03"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "249.3507164503777",
+UserY: "293.08028943431765",
+DeviceType: "android",
+UpdatedAt: "1480093044.544"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "245.53641201984271",
+UserY: "296.57651512773657",
+DeviceType: "android",
+UpdatedAt: "1480093075.317"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "25",
+DeviceID: "",
+UserX: "447.431702",
+UserY: "360.793823",
+DeviceType: "iPhone",
+UpdatedAt: "1480093075"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "328.7386968257221",
+UserY: "245.61010186307047",
+DeviceType: "android",
+UpdatedAt: "1480093106.223"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "25",
+DeviceID: "",
+UserX: "272.136963",
+UserY: "348.155029",
+DeviceType: "iPhone",
+UpdatedAt: "1480093110"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "380.5785818199946",
+UserY: "275.53938492626327",
+DeviceType: "android",
+UpdatedAt: "1480093136.858"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "25",
+DeviceID: "",
+UserX: "283.688538",
+UserY: "464.834778",
+DeviceType: "iPhone",
+UpdatedAt: "1480093143"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "381.21829625629675",
+UserY: "275.5485159244673",
+DeviceType: "android",
+UpdatedAt: "1480093167.774"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "25",
+DeviceID: "",
+UserX: "304.814435",
+UserY: "4526.350914",
+DeviceType: "iPhone",
+UpdatedAt: "1480093179"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "335.0301009585931",
+UserY: "247.59575983983214",
+DeviceType: "android",
+UpdatedAt: "1480093199.818"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "382.28605696109787",
+UserY: "275.56056543256864",
+DeviceType: "android",
+UpdatedAt: "1480093230.609"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "333.3452513330462",
+UserY: "246.35957363042795",
+DeviceType: "android",
+UpdatedAt: "1480093261.287"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "333.52831897923403",
+UserY: "247.80101688334943",
+DeviceType: "android",
+UpdatedAt: "1480093292.758"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "378.7170835849947",
+UserY: "275.27644299848623",
+DeviceType: "android",
+UpdatedAt: "1480093323.267"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "378.82991128836267",
+UserY: "275.2751838206127",
+DeviceType: "android",
+UpdatedAt: "1480093353.84"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "260.1937257692973",
+UserY: "291.8302282667701",
+DeviceType: "android",
+UpdatedAt: "1480093387.718"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "281.73763105077177",
+UserY: "263.18271166213555",
+DeviceType: "android",
+UpdatedAt: "1480093421.903"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "255.42800518742646",
+UserY: "292.41573935937913",
+DeviceType: "android",
+UpdatedAt: "1480093459.854"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "262.0117848178732",
+UserY: "286.8170848952128",
+DeviceType: "android",
+UpdatedAt: "1480093490.277"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "252.94482662416436",
+UserY: "293.92881762549564",
+DeviceType: "android",
+UpdatedAt: "1480093526.634"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "277.7213064215985",
+UserY: "274.9099868847188",
+DeviceType: "android",
+UpdatedAt: "1480093563.061"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "246.9363763631636",
+UserY: "293.9355355427022",
+DeviceType: "android",
+UpdatedAt: "1480093597.46"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "238.56284216739974",
+UserY: "298.08180520743304",
+DeviceType: "android",
+UpdatedAt: "1480093629.546"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "277.01882510129735",
+UserY: "274.91000933107915",
+DeviceType: "android",
+UpdatedAt: "1480093661.537"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "244.1323747864658",
+UserY: "294.51320636102554",
+DeviceType: "android",
+UpdatedAt: "1480093692.156"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "262.16910485648856",
+UserY: "286.85681127474123",
+DeviceType: "android",
+UpdatedAt: "1480093727.628"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "323.3506787413579",
+UserY: "288.55972269732246",
+DeviceType: "android",
+UpdatedAt: "1480093776.241"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "235.14649809588846",
+UserY: "297.21450664379637",
+DeviceType: "android",
+UpdatedAt: "1480093809.184"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "261.2279437528383",
+UserY: "287.0129410539893",
+DeviceType: "android",
+UpdatedAt: "1480093841.406"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "f73d07f6a4f6a8b3",
+UserX: "236.09291496688328",
+UserY: "296.9782525207934",
+DeviceType: "android",
+UpdatedAt: "1480093873.185"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "25",
+DeviceID: "",
+UserX: "450.224073",
+UserY: "-4609.116932",
+DeviceType: "iPhone",
+UpdatedAt: "1480094071"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "25",
+DeviceID: "",
+UserX: "445.897982",
+UserY: "347.236494",
+DeviceType: "iPhone",
+UpdatedAt: "1480094087"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480103728"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480103758"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480103788"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480103799"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480103829"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480103860"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480104345"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480104779"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480104810"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480106303"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480106332"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480106362"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480106392"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480106422"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480106452"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480106482"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480106512"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480106542"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480106572"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480106861"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480107061"
+},
+{
+UserID: "FY1ZM3MH9YX6SO10005375NB6FZ2FK3RG2JC",
+FloorplanID: "0",
+DeviceID: "",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480107167"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "6b4aff3979f6b0676032c017daa23a92da3333d2273709c46f205b89c03bd2f8",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480134055"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "6b4aff3979f6b0676032c017daa23a92da3333d2273709c46f205b89c03bd2f8",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480134089"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "6b4aff3979f6b0676032c017daa23a92da3333d2273709c46f205b89c03bd2f8",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480134120"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "6b4aff3979f6b0676032c017daa23a92da3333d2273709c46f205b89c03bd2f8",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480134157"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "147e8367babab6ed1036a1aaf3d5d0f5f8444702bfb4f336557209b11f778f8f",
+UserX: "43.409399",
+UserY: "142.259561",
+DeviceType: "iPhone",
+UpdatedAt: "1480135818"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "147e8367babab6ed1036a1aaf3d5d0f5f8444702bfb4f336557209b11f778f8f",
+UserX: "11.098870",
+UserY: "-1.329985",
+DeviceType: "iPhone",
+UpdatedAt: "1480135848"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "147e8367babab6ed1036a1aaf3d5d0f5f8444702bfb4f336557209b11f778f8f",
+UserX: "43.408983",
+UserY: "142.272083",
+DeviceType: "iPhone",
+UpdatedAt: "1480135878"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "147e8367babab6ed1036a1aaf3d5d0f5f8444702bfb4f336557209b11f778f8f",
+UserX: "42.820749",
+UserY: "124.349110",
+DeviceType: "iPhone",
+UpdatedAt: "1480135908"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "147e8367babab6ed1036a1aaf3d5d0f5f8444702bfb4f336557209b11f778f8f",
+UserX: "42.820497",
+UserY: "124.338024",
+DeviceType: "iPhone",
+UpdatedAt: "1480135938"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "147e8367babab6ed1036a1aaf3d5d0f5f8444702bfb4f336557209b11f778f8f",
+UserX: "43.950961",
+UserY: "142.183485",
+DeviceType: "iPhone",
+UpdatedAt: "1480135968"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "147e8367babab6ed1036a1aaf3d5d0f5f8444702bfb4f336557209b11f778f8f",
+UserX: "43.947013",
+UserY: "142.122075",
+DeviceType: "iPhone",
+UpdatedAt: "1480135998"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "147e8367babab6ed1036a1aaf3d5d0f5f8444702bfb4f336557209b11f778f8f",
+UserX: "42.821125",
+UserY: "124.354370",
+DeviceType: "iPhone",
+UpdatedAt: "1480136028"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "147e8367babab6ed1036a1aaf3d5d0f5f8444702bfb4f336557209b11f778f8f",
+UserX: "42.820258",
+UserY: "124.331295",
+DeviceType: "iPhone",
+UpdatedAt: "1480136058"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "147e8367babab6ed1036a1aaf3d5d0f5f8444702bfb4f336557209b11f778f8f",
+UserX: "42.820830",
+UserY: "142.356013",
+DeviceType: "iPhone",
+UpdatedAt: "1480136088"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "147e8367babab6ed1036a1aaf3d5d0f5f8444702bfb4f336557209b11f778f8f",
+UserX: "42.821256",
+UserY: "142.342826",
+DeviceType: "iPhone",
+UpdatedAt: "1480136118"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "ed4a1ff7f51af9295331bea7269dd305d1e744ac4e48693cd3054b5bad65b0c9",
+UserX: "43.409163",
+UserY: "142.311047",
+DeviceType: "iPhone",
+UpdatedAt: "1480136505"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "ed4a1ff7f51af9295331bea7269dd305d1e744ac4e48693cd3054b5bad65b0c9",
+UserX: "43.412710",
+UserY: "142.358763",
+DeviceType: "iPhone",
+UpdatedAt: "1480136537"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "ed4a1ff7f51af9295331bea7269dd305d1e744ac4e48693cd3054b5bad65b0c9",
+UserX: "42.821317",
+UserY: "124.310699",
+DeviceType: "iPhone",
+UpdatedAt: "1480136567"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "ed4a1ff7f51af9295331bea7269dd305d1e744ac4e48693cd3054b5bad65b0c9",
+UserX: "42.818214",
+UserY: "124.244741",
+DeviceType: "iPhone",
+UpdatedAt: "1480136597"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "ed4a1ff7f51af9295331bea7269dd305d1e744ac4e48693cd3054b5bad65b0c9",
+UserX: "42.820588",
+UserY: "124.309838",
+DeviceType: "iPhone",
+UpdatedAt: "1480136627"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "ed4a1ff7f51af9295331bea7269dd305d1e744ac4e48693cd3054b5bad65b0c9",
+UserX: "42.820154",
+UserY: "124.316514",
+DeviceType: "iPhone",
+UpdatedAt: "1480136676"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "ed4a1ff7f51af9295331bea7269dd305d1e744ac4e48693cd3054b5bad65b0c9",
+UserX: "42.828804",
+UserY: "124.470855",
+DeviceType: "iPhone",
+UpdatedAt: "1480136706"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "ed4a1ff7f51af9295331bea7269dd305d1e744ac4e48693cd3054b5bad65b0c9",
+UserX: "5.705355",
+UserY: "-0.590289",
+DeviceType: "iPhone",
+UpdatedAt: "1480136765"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "ed4a1ff7f51af9295331bea7269dd305d1e744ac4e48693cd3054b5bad65b0c9",
+UserX: "43.962066",
+UserY: "142.305779",
+DeviceType: "iPhone",
+UpdatedAt: "1480136795"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "ed4a1ff7f51af9295331bea7269dd305d1e744ac4e48693cd3054b5bad65b0c9",
+UserX: "42.812955",
+UserY: "124.128184",
+DeviceType: "iPhone",
+UpdatedAt: "1480136908"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "ed4a1ff7f51af9295331bea7269dd305d1e744ac4e48693cd3054b5bad65b0c9",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480137191"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "ed4a1ff7f51af9295331bea7269dd305d1e744ac4e48693cd3054b5bad65b0c9",
+UserX: "42.798262",
+UserY: "123.679208",
+DeviceType: "iPhone",
+UpdatedAt: "1480137221"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "ed4a1ff7f51af9295331bea7269dd305d1e744ac4e48693cd3054b5bad65b0c9",
+UserX: "42.785782",
+UserY: "123.298333",
+DeviceType: "iPhone",
+UpdatedAt: "1480137251"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "ed4a1ff7f51af9295331bea7269dd305d1e744ac4e48693cd3054b5bad65b0c9",
+UserX: "42.787616",
+UserY: "123.355235",
+DeviceType: "iPhone",
+UpdatedAt: "1480137281"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "cf7b6c8cab6c54ee176f82b33bae7fc0be7bb84e836701213eb027f2803cc28a",
+UserX: "36.155143",
+UserY: "143.697463",
+DeviceType: "iPhone",
+UpdatedAt: "1480137748"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "cf7b6c8cab6c54ee176f82b33bae7fc0be7bb84e836701213eb027f2803cc28a",
+UserX: "43.407830",
+UserY: "142.277733",
+DeviceType: "iPhone",
+UpdatedAt: "1480137778"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "cf7b6c8cab6c54ee176f82b33bae7fc0be7bb84e836701213eb027f2803cc28a",
+UserX: "42.801134",
+UserY: "123.768369",
+DeviceType: "iPhone",
+UpdatedAt: "1480137808"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "cf7b6c8cab6c54ee176f82b33bae7fc0be7bb84e836701213eb027f2803cc28a",
+UserX: "42.802943",
+UserY: "123.823863",
+DeviceType: "iPhone",
+UpdatedAt: "1480137838"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "cf7b6c8cab6c54ee176f82b33bae7fc0be7bb84e836701213eb027f2803cc28a",
+UserX: "18.977847",
+UserY: "147.264183",
+DeviceType: "iPhone",
+UpdatedAt: "1480138375"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "cf7b6c8cab6c54ee176f82b33bae7fc0be7bb84e836701213eb027f2803cc28a",
+UserX: "42.796467",
+UserY: "123.626417",
+DeviceType: "iPhone",
+UpdatedAt: "1480138405"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "cf7b6c8cab6c54ee176f82b33bae7fc0be7bb84e836701213eb027f2803cc28a",
+UserX: "42.798589",
+UserY: "123.689822",
+DeviceType: "iPhone",
+UpdatedAt: "1480138435"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "cf7b6c8cab6c54ee176f82b33bae7fc0be7bb84e836701213eb027f2803cc28a",
+UserX: "11.116878",
+UserY: "-1.240111",
+DeviceType: "iPhone",
+UpdatedAt: "1480138465"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "cf7b6c8cab6c54ee176f82b33bae7fc0be7bb84e836701213eb027f2803cc28a",
+UserX: "43.957582",
+UserY: "142.111354",
+DeviceType: "iPhone",
+UpdatedAt: "1480138521"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "cf7b6c8cab6c54ee176f82b33bae7fc0be7bb84e836701213eb027f2803cc28a",
+UserX: "42.802405",
+UserY: "123.806997",
+DeviceType: "iPhone",
+UpdatedAt: "1480138551"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "cf7b6c8cab6c54ee176f82b33bae7fc0be7bb84e836701213eb027f2803cc28a",
+UserX: "36.209018",
+UserY: "143.396342",
+DeviceType: "iPhone",
+UpdatedAt: "1480138686"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "cf7b6c8cab6c54ee176f82b33bae7fc0be7bb84e836701213eb027f2803cc28a",
+UserX: "42.806456",
+UserY: "123.929369",
+DeviceType: "iPhone",
+UpdatedAt: "1480138717"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "cf7b6c8cab6c54ee176f82b33bae7fc0be7bb84e836701213eb027f2803cc28a",
+UserX: "19.048238",
+UserY: "146.360925",
+DeviceType: "iPhone",
+UpdatedAt: "1480138747"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "cf7b6c8cab6c54ee176f82b33bae7fc0be7bb84e836701213eb027f2803cc28a",
+UserX: "42.795373",
+UserY: "123.591493",
+DeviceType: "iPhone",
+UpdatedAt: "1480138777"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "cf7b6c8cab6c54ee176f82b33bae7fc0be7bb84e836701213eb027f2803cc28a",
+UserX: "43.393574",
+UserY: "141.843611",
+DeviceType: "iPhone",
+UpdatedAt: "1480138808"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "cf7b6c8cab6c54ee176f82b33bae7fc0be7bb84e836701213eb027f2803cc28a",
+UserX: "42.802181",
+UserY: "123.800009",
+DeviceType: "iPhone",
+UpdatedAt: "1480138838"
+},
+{
+UserID: "",
+FloorplanID: "26",
+DeviceID: "cf7b6c8cab6c54ee176f82b33bae7fc0be7bb84e836701213eb027f2803cc28a",
+UserX: "44.371306",
+UserY: "142.106266",
+DeviceType: "iPhone",
+UpdatedAt: "1480138868"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "cf7b6c8cab6c54ee176f82b33bae7fc0be7bb84e836701213eb027f2803cc28a",
+UserX: "43.395005",
+UserY: "141.884887",
+DeviceType: "iPhone",
+UpdatedAt: "1480138898"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "cf7b6c8cab6c54ee176f82b33bae7fc0be7bb84e836701213eb027f2803cc28a",
+UserX: "43.412197",
+UserY: "142.409819",
+DeviceType: "iPhone",
+UpdatedAt: "1480138928"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "cf7b6c8cab6c54ee176f82b33bae7fc0be7bb84e836701213eb027f2803cc28a",
+UserX: "42.807217",
+UserY: "123.949788",
+DeviceType: "iPhone",
+UpdatedAt: "1480138958"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "cf7b6c8cab6c54ee176f82b33bae7fc0be7bb84e836701213eb027f2803cc28a",
+UserX: "43.390224",
+UserY: "141.742397",
+DeviceType: "iPhone",
+UpdatedAt: "1480139026"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "cf7b6c8cab6c54ee176f82b33bae7fc0be7bb84e836701213eb027f2803cc28a",
+UserX: "42.818862",
+UserY: "124.308899",
+DeviceType: "iPhone",
+UpdatedAt: "1480139056"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "cf7b6c8cab6c54ee176f82b33bae7fc0be7bb84e836701213eb027f2803cc28a",
+UserX: "5.712031",
+UserY: "-0.546335",
+DeviceType: "iPhone",
+UpdatedAt: "1480139086"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "cf7b6c8cab6c54ee176f82b33bae7fc0be7bb84e836701213eb027f2803cc28a",
+UserX: "43.408774",
+UserY: "142.306405",
+DeviceType: "iPhone",
+UpdatedAt: "1480139116"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "cf7b6c8cab6c54ee176f82b33bae7fc0be7bb84e836701213eb027f2803cc28a",
+UserX: "42.819252",
+UserY: "124.321157",
+DeviceType: "iPhone",
+UpdatedAt: "1480139146"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "cf7b6c8cab6c54ee176f82b33bae7fc0be7bb84e836701213eb027f2803cc28a",
+UserX: "44.028650",
+UserY: "142.296322",
+DeviceType: "iPhone",
+UpdatedAt: "1480139335"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "cf7b6c8cab6c54ee176f82b33bae7fc0be7bb84e836701213eb027f2803cc28a",
+UserX: "43.412005",
+UserY: "142.259038",
+DeviceType: "iPhone",
+UpdatedAt: "1480139490"
+},
+{
+UserID: "",
+FloorplanID: "0",
+DeviceID: "cf7b6c8cab6c54ee176f82b33bae7fc0be7bb84e836701213eb027f2803cc28a",
+UserX: "nan",
+UserY: "nan",
+DeviceType: "iPhone",
+UpdatedAt: "1480139562"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "cf7b6c8cab6c54ee176f82b33bae7fc0be7bb84e836701213eb027f2803cc28a",
+UserX: "42.839783",
+UserY: "124.543689",
+DeviceType: "iPhone",
+UpdatedAt: "1480139607"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "cf7b6c8cab6c54ee176f82b33bae7fc0be7bb84e836701213eb027f2803cc28a",
+UserX: "42.829177",
+UserY: "124.393136",
+DeviceType: "iPhone",
+UpdatedAt: "1480139637"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "cf7b6c8cab6c54ee176f82b33bae7fc0be7bb84e836701213eb027f2803cc28a",
+UserX: "42.831850",
+UserY: "124.436694",
+DeviceType: "iPhone",
+UpdatedAt: "1480139667"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "cf7b6c8cab6c54ee176f82b33bae7fc0be7bb84e836701213eb027f2803cc28a",
+UserX: "31.113876",
+UserY: "-232.863554",
+DeviceType: "iPhone",
+UpdatedAt: "1480139741"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "cf7b6c8cab6c54ee176f82b33bae7fc0be7bb84e836701213eb027f2803cc28a",
+UserX: "42.727406",
+UserY: "121.431997",
+DeviceType: "iPhone",
+UpdatedAt: "1480139777"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "cf7b6c8cab6c54ee176f82b33bae7fc0be7bb84e836701213eb027f2803cc28a",
+UserX: "42.859722",
+UserY: "124.901607",
+DeviceType: "iPhone",
+UpdatedAt: "1480139807"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "cf7b6c8cab6c54ee176f82b33bae7fc0be7bb84e836701213eb027f2803cc28a",
+UserX: "42.832067",
+UserY: "124.442549",
+DeviceType: "iPhone",
+UpdatedAt: "1480139838"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "cf7b6c8cab6c54ee176f82b33bae7fc0be7bb84e836701213eb027f2803cc28a",
+UserX: "42.853396",
+UserY: "124.773437",
+DeviceType: "iPhone",
+UpdatedAt: "1480139868"
+},
+{
+UserID: "",
+FloorplanID: "27",
+DeviceID: "cf7b6c8cab6c54ee176f82b33bae7fc0be7bb84e836701213eb027f2803cc28a",
+UserX: "33.055277",
+UserY: "-173.925189",
+DeviceType: "iPhone",
+UpdatedAt: "1480139898"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "cf7b6c8cab6c54ee176f82b33bae7fc0be7bb84e836701213eb027f2803cc28a",
+UserX: "42.837464",
+UserY: "124.557656",
+DeviceType: "iPhone",
+UpdatedAt: "1480139928"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "cf7b6c8cab6c54ee176f82b33bae7fc0be7bb84e836701213eb027f2803cc28a",
+UserX: "42.830277",
+UserY: "124.439484",
+DeviceType: "iPhone",
+UpdatedAt: "1480139958"
+},
+{
+UserID: "",
+FloorplanID: "25",
+DeviceID: "cf7b6c8cab6c54ee176f82b33bae7fc0be7bb84e836701213eb027f2803cc28a",
+UserX: "42.804375",
+UserY: "123.687752",
+DeviceType: "iPhone",
+UpdatedAt: "1480139988"
+}
+]

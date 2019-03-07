@@ -1,0 +1,8 @@
+com\capgemini\repository\UserRepository.class
+com\capgemini\dto\User.class
+com\capgemini\dto\EmployeeMaster.class
+com\capgemini\services\LoginServiceImpl.class
+com\capgemini\services\LoginService.class
+com\capgemini\controller\CorsFilter.class
+com\capgemini\controller\LoginController.class
+com\capgemini\UserLoginApplication.class

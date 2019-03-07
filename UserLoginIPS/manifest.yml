@@ -1,0 +1,6 @@
+---
+applications:
+  - name: validatelogin-details
+    memory: 750MB
+    path: target/UserLoginApplication-0.0.1-SNAPSHOT.jar
+    
